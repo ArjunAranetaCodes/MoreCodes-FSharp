@@ -1,0 +1,31 @@
+//Arjun C. Araneta
+//(F# Tutorial, FSharp Tutorial) Learn how to Program – Concatenate String Parameters
+
+//https://morecodes.wordpress.com/
+
+/*
+Write a program to count the number of even and odd numbers 
+from a series of numbers from five(5) number inputs of the user.
+*/
+
+open System
+
+let main() =
+    let mutable evenCount = 0
+    let mutable oddCount = 0
+
+    for i = 1 to 5 do
+        Console.Write("Enter a number: ")
+        let numInput = Int32.Parse(Console.ReadLine())
+
+        if numInput % 2 = 0
+        then evenCount <- evenCount + 1
+        else oddCount <- oddCount + 1
+
+    Console.WriteLine("There are " + evenCount.ToString() + " even numbers.")
+    Console.WriteLine("There are " + oddCount.ToString() + " even numbers.")
+
+    Console.ReadLine() |> ignore
+ 
+// Execute the main function
+main()

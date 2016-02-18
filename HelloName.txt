@@ -1,0 +1,24 @@
+/*
+Arjun C. Araneta
+more-codes.com
+
+Write a program that has a function that accepts a name and concatenates 
+it to "Hello ". 
+
+Output:
+
+Hello Mark
+*/
+
+open System
+
+let main() =
+ let PrintHello (strName : string)=
+  Console.WriteLine("Hello " + strName)
+  
+ let output = PrintHello "Mark"
+
+ Console.ReadLine() |> ignore
+ 
+// Execute the main function
+main()

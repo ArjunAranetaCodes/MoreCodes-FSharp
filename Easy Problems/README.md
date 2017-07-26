@@ -1,5 +1,5 @@
 # MoreCodes - F Sharp (F#) Programming Problems
-This repository is for F Sharp (F#) codes of my blog: https://more-codes.com/
+This repository is for F Sharp (F#) codes of my blog: http://more-codes.com/
 
 - - - -
 ### F Sharp (F#) Easy Problems

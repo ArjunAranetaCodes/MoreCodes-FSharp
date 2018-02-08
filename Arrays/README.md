@@ -11,7 +11,7 @@ Join Us on Youtube! <br/>
 #
 
 - - - -
-### [Go Array Programming Problems](Arrays/) <- Click to go to Array Problems
+### [Go Array Programming Problems](../Arrays/) <- Click to go to Array Problems
 
 1. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-FSharp/blob/master/Arrays/problem1.fs" target="_blank">Write a program that outputs the length of array.</a>
 2. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-FSharp/blob/master/Arrays/problem2.fs" target="_blank">Write a program that gets the index of an element in an array.</a>

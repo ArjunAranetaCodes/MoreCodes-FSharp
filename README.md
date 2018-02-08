@@ -1,16 +1,28 @@
-# MoreCodes - F Sharp (F#) Programming Problems
-This repository is for F Sharp (F#) codes of my blog: http://more-codes.com/
+<h1 align="center">MoreCodes</h1>
+<p align="center"> 
+  <img src="/morecodescir.png"/>
+</p>
 
-1. Basic Output
-2. Variables
-3. Basic Input
-4. Comment
-5. Arithmetic Operation
-6. Loops
-7. Condition (If/Else)
-8. Condition (Switch )
-9. Function/Method
-10. Array/List
+<p align="center">
+Join Us on Youtube! <br/>
+<i><u>https://www.youtube.com/channel/UCK8YsKv4-N6ItZfzEyKlI6A/featured</u></i>
+</p>
+
+#
+
+# MoreCodes- F Sharp (F#) Programming Problems
+Computer Programming Problems and Solutions with the F Sharp (F#) Language
+
+1. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-FSharp/blob/master/Basics1.fs" target="_blank">Basic Output</a>
+2. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-FSharp/blob/master/Basics2.fs" target="_blank">Variables</a>
+3. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-FSharp/blob/master/Basics3.fs" target="_blank">Basic Input</a>
+4. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-FSharp/blob/master/Basics4.fs" target="_blank">Comment</a>
+5. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-FSharp/blob/master/Basics5.fs" target="_blank">Arithmetic Operation</a>
+6. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-FSharp/blob/master/Basics6.fs" target="_blank">Loops</a>
+7. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-FSharp/blob/master/Basics7.fs" target="_blank">Condition (If/Else)</a>
+8. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-FSharp/blob/master/Basics8.fs" target="_blank">Condition (Switch )</a>
+9. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-FSharp/blob/master/Basics9.fs" target="_blank">Function/Method</a>
+10. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-FSharp/blob/master/Basics10.fs" target="_blank">Array/List</a>
 
 - - - -
 ### [F Sharp (F#) Easy Programming Problems](Problems/) <- Click to go to Easy Problems

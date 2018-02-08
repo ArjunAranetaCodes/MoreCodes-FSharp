@@ -25,7 +25,7 @@ Computer Programming Problems and Solutions with the F Sharp (F#) Language
 10. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-FSharp/blob/master/Basics10.fs" target="_blank">Array/List</a>
 
 - - - -
-### [Go Easy Programming Problems](Easy%20Problems/) <- Click to go to Easy Problems
+### [F Sharp (F#) Easy Programming Problems](Easy%20Problems/) <- Click to go to Easy Problems
 
 1. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-FSharp/blob/master/Easy%20Problems/problem1.fs" target="_blank">Write a program that accepts two numbers and find the sum.</a>
 2. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-FSharp/blob/master/Easy%20Problems/problem2.fs" target="_blank">Write a program that accepts two numbers and perform all arithmetic operations.</a>
@@ -49,7 +49,7 @@ Computer Programming Problems and Solutions with the F Sharp (F#) Language
 20. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-FSharp/blob/master/Easy%20Problems/problem20.fs" target="_blank">Write a program that checks if a string is a palindrome.</a>
 
 - - - -
-### [Go Loops Programming Problems](Loops/) <- Click to go to Loop Problems
+### [F Sharp (F#) Loops Programming Problems](Loops/) <- Click to go to Loop Problems
 
 1. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-FSharp/blob/master/Loops/problem1.fs" target="_blank">Write a program that prints the numbers from 1 to 50. Output "Fizz" for multiples of 3, output "Buzz" for multiples of 5, and bot "FizzBuzz" for multiples of both 3 and 5.</a>
 2. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-FSharp/blob/master/Loops/problem2.fs" target="_blank">Write a program that outputs 5 random integers.</a>
@@ -73,7 +73,7 @@ Computer Programming Problems and Solutions with the F Sharp (F#) Language
 20. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-FSharp/blob/master/Loops/problem20.fs" target="_blank">(Recursion) Write a program that outputs the sum of numbers from 1 to n.</a>
 
 - - - -
-### [Go Array Programming Problems](Arrays/) <- Click to go to Array Problems
+### [F Sharp (F#) Array Programming Problems](Arrays/) <- Click to go to Array Problems
 
 1. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-FSharp/blob/master/Arrays/problem1.fs" target="_blank">Write a program that outputs the length of array.</a>
 2. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-FSharp/blob/master/Arrays/problem2.fs" target="_blank">Write a program that gets the index of an element in an array.</a>
@@ -97,7 +97,7 @@ Computer Programming Problems and Solutions with the F Sharp (F#) Language
 20. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-FSharp/blob/master/Arrays/problem20.fs" target="_blank">Write a program that outputs the element closest to 0.</a>
 
 - - - - 
-###  [Go Conversion Programming Problems](Conversions/) <- Click to go to Conversion Problems
+###  [F Sharp (F#) Conversion Programming Problems](Conversions/) <- Click to go to Conversion Problems
 
 1. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-FSharp/blob/master/Conversions/problem1.fs" target="_blank">Write a program that converts a number to string.</a>
 2. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-FSharp/blob/master/Conversions/problem2.fs" target="_blank">Write a program that converts a string to integer.</a>
